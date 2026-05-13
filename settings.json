@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "BowSMP-season_1.aternos.me:30193",
+    "port": 30193,
     "version": "1.20.1",
     "try-creative": false
   },
